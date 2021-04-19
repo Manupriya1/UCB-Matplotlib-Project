@@ -40,7 +40,8 @@ I analysed the data to understand the differnece in the following parameters wit
 
   <img width="144" alt="Pic 5_average fares per driver" src="https://user-images.githubusercontent.com/69255270/115166498-62d37400-a068-11eb-9385-ee89edf88986.png">
   
-  ## Summary: Based on the results above, here are the three business recommendations for addressing the disparities among the city types: 
+  ## Summary: 
+  Based on the results below, here are the three business recommendations for addressing the disparities among the city types: 
   
    <img width="452" alt="final" src="https://user-images.githubusercontent.com/69255270/115167064-e0987f00-a06a-11eb-8e53-0ce3f62adba9.png">
 
